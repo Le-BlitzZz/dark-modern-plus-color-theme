@@ -1,16 +1,11 @@
-# dark-modern-plus README
+# Dark Modern Plus Theme
 
-## Working with Markdown
+This is an improved version of `Default Dark Modern` theme.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Token colors were initially taken from `One Dark Pro Darker` theme, [its JSON on GitHub](https://github.com/Binaryify/OneDark-Pro/blob/master/themes/OneDark-Pro-darker.json)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Token colors are best configured for `Go`. Some small adjustments were made for `JS/TS` and `Python`, but they are not final.
 
-## For more information
+If you want to contribute: [Theme's GitHub Repository](https://github.com/Le-BlitzZz/dark-modern-plus-color-theme)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![alt text](image.png)

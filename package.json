@@ -3,6 +3,19 @@
   "displayName": "Dark Modern Plus",
   "description": "",
   "version": "0.0.1",
+  "publisher": "Le-BlitzZz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Le-BlitzZz/dark-modern-plus-color-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark modern plus",
+    "dark modern+",
+    "dark modern",
+    "default dark modern"
+  ],
   "engines": {
     "vscode": "^1.96.0"
   },
