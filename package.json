@@ -1,18 +1,18 @@
 {
-  "name": "dark-modern-plus",
-  "displayName": "Dark Modern Plus",
+  "name": "le-dark-modern-pro",
+  "displayName": "Le Dark Modern Pro",
   "description": "",
   "version": "0.0.1",
   "publisher": "Le-BlitzZz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Le-BlitzZz/dark-modern-plus-color-theme"
+    "url": "https://github.com/Le-BlitzZz/dark-modern-pro-color-theme"
   },
   "keywords": [
     "theme",
     "dark theme",
-    "dark modern plus",
-    "dark modern+",
+    "dark modern pro",
+    "le dark modern pro",
     "dark modern",
     "default dark modern"
   ],
@@ -25,9 +25,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Modern Plus",
+        "label": "Dark Modern Pro",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Modern Plus-color-theme.json"
+        "path": "./themes/Dark Modern Pro-color-theme.json"
       }
     ]
   }
